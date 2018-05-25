@@ -23,6 +23,7 @@
 * [Mobile developers group](https://telegram.me/mobidev)
 * [Кружок программистов IT-Attractor plus](https://telegram.me/programmingclub)
 * [Bitcoin Kyrgyzstan](https://web.telegram.org/#/im?p=g16604184)
+* [Linux User Group Kyrgyzstan](https://telegram.me/lug_kg)
 
 ## Telegram channels
 * [IT Events](https://telegram.me/geekevents)
